@@ -1,6 +1,6 @@
 # MAIC_Sleep_AI
 
-## MAIC Sleep AI Challenge 2021 IRail_IT팀의 Preprocessing 및 Model Code 입니다.
+## MAIC Sleep AI Challenge 2021 IRail_IT팀의 Preprocessing 및 Model Code
 ## 적외선 수면 동영상을 이용한 수면 단계(Wake, Light Sleep(N1,N2), Deep Sleep(N3,REM)분류 모델을 만드는 것이 최종 목표입니다.
 <br>[MAIC 홈페이지](https://maic.or.kr/ "MAIC 홈페이지 주소")</br>
 
